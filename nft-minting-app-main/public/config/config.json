@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x653A8c1C1FA9fD5149Cd0E34aD5b6d3F3Ec2f48E",
+  "SCAN_LINK": "https://stardust-explorer.metis.io/token/0x653A8c1C1FA9fD5149Cd0E34aD5b6d3F3Ec2f48E",
+  "NETWORK": {
+    "NAME": "Stardust",
+    "SYMBOL": "Metis",
+    "ID": 588
+  },
+  "NFT_NAME": "Plumpguins",
+  "SYMBOL": "PLUMP",
+  "MAX_SUPPLY": 4200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TWITTER",
+  "MARKETPLACE_LINK": "https://twitter.com/Plumpguins",
+  "SHOW_BACKGROUND": true
+}
